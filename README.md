@@ -21,3 +21,4 @@ To get the provided application working locally
     git clone git://github.com/tnh/simple-sinatra-app.git
     shell $ bundle install
     shell $ bundle exec rackup
+
